@@ -27,7 +27,8 @@ function createNewButton () {
     
     dogs.push(newButtonText);
     
-    createButtons();
+	createButtons();
+	event.preventDefault();
     
 	};
 
@@ -60,7 +61,7 @@ $("#buttons").on("click", "button", function(event) {
             
             var rating= response.data[i].rating;
             
-        	var p= $("<p>").text("Ratings: " + rating);
+        	var p= $("<p>").text("Rated " + rating);
 
         
             
