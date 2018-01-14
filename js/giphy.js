@@ -10,7 +10,8 @@ function createButtons (){
     
     $("#buttons").append("<button button-name='" + dogs[i] + "'>" + dogs[i] + "</button>");
 
-    console.log("Current Buttons: " + dogs[i]);  // shows twice?
+	console.log("Current Buttons: " + dogs[i]);  // shows twice?
+	
 
 	}
 };
@@ -29,6 +30,7 @@ function createNewButton () {
     
 	createButtons();
 	event.preventDefault();
+	$("#add-dog").val("");
     
 	};
 
