@@ -1,0 +1,54 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
+#add-dog {
+  
+      font-size: 30px;
+      text-align: center;
+      color: rgb(126, 121, 114);
+    }
+  
+    #download-button {
+      
+          font-size: 24px;
+          text-align: center;
+        }
+
+          
+          button {
+              background-color: #f8f7f5;
+              color: #ff9800;
+              border: 1px solid #ebe9e5;
+              text-transform: uppercase;
+              padding: 5px;
+              margin: 2px;
+              
+            }
+
+           #display-dogs {
+              
+              padding: 5px;
+              margin: 0;
+              height: 500px;
+            
+              
+            }
+            .divContainer{
+              width: 25%;
+              float: left;
+              
+            }
+     
