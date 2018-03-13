@@ -20,10 +20,10 @@
 
 ## Screenshot
 
-![Image of Command Line](Capture.png)
+![Image of page](Capture.PNG)
 
 
-![Image of Command Line](Capture1.png)
+![Image page](Capture1.PNG)
 
 ## Languages/Libraries used:
 
