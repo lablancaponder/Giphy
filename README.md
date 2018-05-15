@@ -14,7 +14,7 @@
 
 * Under each gif, the rating (PG, G, etc) will be displayed.  This data is provided by the GIPHY API.
 
-## GitHub Repo: https://lponder82.github.io/Giphy/
+## GitHub Repo: https://lablancaponder.github.io/Giphy/
 
 
 
